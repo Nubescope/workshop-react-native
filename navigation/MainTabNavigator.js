@@ -28,7 +28,7 @@ export default TabNavigator(
               Platform.OS === 'ios' ? `ios-information-circle${focused ? '' : '-outline'}` : 'md-information-circle'
             break
           case 'Favorites':
-            iconName = Platform.OS === 'ios' ? `ios-heart${focused ? '' : '-outline'}` : 'md-heart'
+            iconName = `${Platform.OS === 'ios' ? 'ios-heart' : 'md-heart'}${focused ? '' : '-outline'}`
             break
         }
         return (
