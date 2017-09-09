@@ -1,0 +1,1715 @@
+{
+  "artists": {
+    "href": "https://api.spotify.com/v1/search?query=funk&type=artist&market=US&offset=0&limit=50",
+    "items": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
+        },
+        "followers": {
+          "href": null,
+          "total": 123021
+        },
+        "genres": [
+          "album rock",
+          "art rock",
+          "blues-rock",
+          "classic funk rock",
+          "classic rock",
+          "country rock",
+          "electric blues",
+          "folk rock",
+          "hard rock",
+          "mellow gold",
+          "progressive rock",
+          "psychedelic rock",
+          "rock",
+          "roots rock",
+          "soft rock",
+          "southern rock",
+          "symphonic rock"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0qEcf3SFlpRcb3lK3f2GZI",
+        "id": "0qEcf3SFlpRcb3lK3f2GZI",
+        "images": [
+          {
+            "height": 618,
+            "url": "https://i.scdn.co/image/b9a8fe255964dd911ed816b0f09257f41843347d",
+            "width": 999
+          },
+          {
+            "height": 396,
+            "url": "https://i.scdn.co/image/882a9683a86d2f69685bce348af1ef16cceed4e4",
+            "width": 640
+          },
+          {
+            "height": 124,
+            "url": "https://i.scdn.co/image/2f30166c2cd79566e110679bc7a1b2f5b649568b",
+            "width": 200
+          },
+          {
+            "height": 40,
+            "url": "https://i.scdn.co/image/aace93578cf2be52db2501386d1603fcfe6efe6b",
+            "width": 64
+          }
+        ],
+        "name": "Grand Funk Railroad",
+        "popularity": 60,
+        "type": "artist",
+        "uri": "spotify:artist:0qEcf3SFlpRcb3lK3f2GZI"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        },
+        "followers": {
+          "href": null,
+          "total": 20896
+        },
+        "genres": ["alternative hip hop", "indie jazz", "wonky"],
+        "href": "https://api.spotify.com/v1/artists/1AEcpjnSCmm53IBZQo3g9z",
+        "id": "1AEcpjnSCmm53IBZQo3g9z",
+        "images": [
+          {
+            "height": 1500,
+            "url": "https://i.scdn.co/image/28fafe92be77438f5287774670fa69cd80f01511",
+            "width": 1000
+          },
+          {
+            "height": 960,
+            "url": "https://i.scdn.co/image/2ebda301245b9ddc352d4fbaed02d431180aac46",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/fd9ef14d86467424649afbe13ba1d61e002fbf30",
+            "width": 200
+          },
+          {
+            "height": 96,
+            "url": "https://i.scdn.co/image/ca7ae70e306195ea3c59251428d3523565517dc9",
+            "width": 64
+          }
+        ],
+        "name": "Dâm-Funk",
+        "popularity": 51,
+        "type": "artist",
+        "uri": "spotify:artist:1AEcpjnSCmm53IBZQo3g9z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz"
+        },
+        "followers": {
+          "href": null,
+          "total": 54812
+        },
+        "genres": [
+          "chicago soul",
+          "classic funk rock",
+          "disco",
+          "funk",
+          "funk rock",
+          "jazz funk",
+          "memphis soul",
+          "motown",
+          "new jack swing",
+          "post-disco",
+          "quiet storm",
+          "soul",
+          "soul blues",
+          "southern soul",
+          "urban contemporary"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2hUkfSXyuDfQbUeNOShRiz",
+        "id": "2hUkfSXyuDfQbUeNOShRiz",
+        "images": [
+          {
+            "height": 644,
+            "url": "https://i.scdn.co/image/bd93660a8b4d73f14dbe11b45836fe280c568115",
+            "width": 1000
+          },
+          {
+            "height": 412,
+            "url": "https://i.scdn.co/image/332c835ee844bc070f9004ec3bcc5b922d6276c5",
+            "width": 640
+          },
+          {
+            "height": 129,
+            "url": "https://i.scdn.co/image/79495ca8d5cef3373d401610332a776e180a0b97",
+            "width": 200
+          },
+          {
+            "height": 41,
+            "url": "https://i.scdn.co/image/b4886d947d87633f9d921907d05b764494ea3d59",
+            "width": 64
+          }
+        ],
+        "name": "Con Funk Shun",
+        "popularity": 47,
+        "type": "artist",
+        "uri": "spotify:artist:2hUkfSXyuDfQbUeNOShRiz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M0FCfVRUo5DUuziqLFjJ0"
+        },
+        "followers": {
+          "href": null,
+          "total": 3928
+        },
+        "genres": ["acid house", "chicago house", "ghettotech"],
+        "href": "https://api.spotify.com/v1/artists/6M0FCfVRUo5DUuziqLFjJ0",
+        "id": "6M0FCfVRUo5DUuziqLFjJ0",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/afa23bc1957bc6bb41287da22bfc0e0f2511cec1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/99af08799fc1707902e22f334d72c90e9d866d58",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/398aa0ff4235520353a5d68f88e1e3ab699efb73",
+            "width": 64
+          }
+        ],
+        "name": "dj funk",
+        "popularity": 44,
+        "type": "artist",
+        "uri": "spotify:artist:6M0FCfVRUo5DUuziqLFjJ0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5xwd7lKJeb2opUvYZnXFut"
+        },
+        "followers": {
+          "href": null,
+          "total": 6752
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5xwd7lKJeb2opUvYZnXFut",
+        "id": "5xwd7lKJeb2opUvYZnXFut",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/5ea432aa3a236008b9ea4ce007d7bee459574666",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/2310bacc2535b7408a32f94c281f43b25f01b5fe",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/1507aea9bc470b151d1db167c43e04e6ea2dfdcb",
+            "width": 160
+          }
+        ],
+        "name": "The Funk Hunters",
+        "popularity": 41,
+        "type": "artist",
+        "uri": "spotify:artist:5xwd7lKJeb2opUvYZnXFut"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/08dmM8b0RucJnhUuY59ss4"
+        },
+        "followers": {
+          "href": null,
+          "total": 3
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/08dmM8b0RucJnhUuY59ss4",
+        "id": "08dmM8b0RucJnhUuY59ss4",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/8a22c0dd8e1e544dcd8d669433d793f201fea5c7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/9a1103089654bbb7a3ea17f41473323ef2843d6a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/7a6c3de28dab70f6fa6395ed7d3bd531ef803bfb",
+            "width": 64
+          }
+        ],
+        "name": "Funk Master ND",
+        "popularity": 33,
+        "type": "artist",
+        "uri": "spotify:artist:08dmM8b0RucJnhUuY59ss4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3QzHXIuwKTQzOhgA3F8mN1"
+        },
+        "followers": {
+          "href": null,
+          "total": 2706
+        },
+        "genres": ["filter house", "nu disco"],
+        "href": "https://api.spotify.com/v1/artists/3QzHXIuwKTQzOhgA3F8mN1",
+        "id": "3QzHXIuwKTQzOhgA3F8mN1",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/fe871c516f51d736902ccc24fbc50a829c9fd4c5",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/2c323f0add04d6768371408551cfa33140f63be0",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/d87fe624301a1eb9ed7c0447d26d8370a0b47dda",
+            "width": 160
+          }
+        ],
+        "name": "Bit Funk",
+        "popularity": 40,
+        "type": "artist",
+        "uri": "spotify:artist:3QzHXIuwKTQzOhgA3F8mN1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6uO11lPd3bKMqDLQOREHxX"
+        },
+        "followers": {
+          "href": null,
+          "total": 9
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/6uO11lPd3bKMqDLQOREHxX",
+        "id": "6uO11lPd3bKMqDLQOREHxX",
+        "images": [],
+        "name": "Funk Life",
+        "popularity": 30,
+        "type": "artist",
+        "uri": "spotify:artist:6uO11lPd3bKMqDLQOREHxX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5tOiT7pdFoQN3hf2OWj2fv"
+        },
+        "followers": {
+          "href": null,
+          "total": 1914
+        },
+        "genres": ["chill lounge", "deep chill", "electro jazz", "relaxative"],
+        "href": "https://api.spotify.com/v1/artists/5tOiT7pdFoQN3hf2OWj2fv",
+        "id": "5tOiT7pdFoQN3hf2OWj2fv",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/66db78e42e3d3194f5999a493e1af2eadb0a2ad9",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/282d49f8eddccaf1793bc91f735890d22f6de199",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/505de3940ef828bfbacabd2104fdd255d77276e8",
+            "width": 64
+          }
+        ],
+        "name": "Schwarz & Funk",
+        "popularity": 47,
+        "type": "artist",
+        "uri": "spotify:artist:5tOiT7pdFoQN3hf2OWj2fv"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        "followers": {
+          "href": null,
+          "total": 4367
+        },
+        "genres": ["pop house"],
+        "href": "https://api.spotify.com/v1/artists/7wmCy21VjfmbP8DznMJe8v",
+        "id": "7wmCy21VjfmbP8DznMJe8v",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/0f6db20e79275180c3cce62575d76cd1f595ea4e",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/eb82b4a59e69ad91ee3f9e891fc2ddf0b2b79496",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/2206996fece15bb6787574c72349cc629c47cd2a",
+            "width": 160
+          }
+        ],
+        "name": "Plastik Funk",
+        "popularity": 45,
+        "type": "artist",
+        "uri": "spotify:artist:7wmCy21VjfmbP8DznMJe8v"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3vHrEnwmDYlaScgAiZbnz0"
+        },
+        "followers": {
+          "href": null,
+          "total": 9960
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3vHrEnwmDYlaScgAiZbnz0",
+        "id": "3vHrEnwmDYlaScgAiZbnz0",
+        "images": [
+          {
+            "height": 533,
+            "url": "https://i.scdn.co/image/ec1d6c956767eb9515583963865beb314f6bdf86",
+            "width": 600
+          },
+          {
+            "height": 267,
+            "url": "https://i.scdn.co/image/a09a503bebd520d405db34cdcc62fad90931b3c0",
+            "width": 300
+          },
+          {
+            "height": 57,
+            "url": "https://i.scdn.co/image/cfde9fd7156dd70b5c319ae01574aa671b5fab71",
+            "width": 64
+          }
+        ],
+        "name": "Nils Landgren Funk Unit",
+        "popularity": 47,
+        "type": "artist",
+        "uri": "spotify:artist:3vHrEnwmDYlaScgAiZbnz0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q"
+        },
+        "followers": {
+          "href": null,
+          "total": 6469
+        },
+        "genres": ["deep funk"],
+        "href": "https://api.spotify.com/v1/artists/3HZGp40qZu7sjn5KswiU3Q",
+        "id": "3HZGp40qZu7sjn5KswiU3Q",
+        "images": [
+          {
+            "height": 329,
+            "url": "https://i.scdn.co/image/6a0f5640c29ad8d17dd3eb8c015ec8251c30995f",
+            "width": 498
+          },
+          {
+            "height": 132,
+            "url": "https://i.scdn.co/image/9e1656d902dd07de99e13aea1aeac0bb70cd0590",
+            "width": 200
+          },
+          {
+            "height": 42,
+            "url": "https://i.scdn.co/image/58cde6632f862d95e1256385690a4728d8eace61",
+            "width": 64
+          }
+        ],
+        "name": "Papa Grows Funk",
+        "popularity": 39,
+        "type": "artist",
+        "uri": "spotify:artist:3HZGp40qZu7sjn5KswiU3Q"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        "followers": {
+          "href": null,
+          "total": 18222
+        },
+        "genres": ["acid jazz", "deep funk", "nu jazz"],
+        "href": "https://api.spotify.com/v1/artists/4r4tRC1EUpfUCLjwQXP5EA",
+        "id": "4r4tRC1EUpfUCLjwQXP5EA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/fcd8e47aacd6fad6c6682948a2c1bb507a522262",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/e57b06e889f97766b8cb39cf6215af242b2b548e",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/b556308b7a50a5745fd94d85eb3d5abc69401228",
+            "width": 160
+          }
+        ],
+        "name": "Brooklyn Funk Essentials",
+        "popularity": 45,
+        "type": "artist",
+        "uri": "spotify:artist:4r4tRC1EUpfUCLjwQXP5EA"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0xfzJF8IkpAmNrGRMJSlPc"
+        },
+        "followers": {
+          "href": null,
+          "total": 1268
+        },
+        "genres": ["jungle"],
+        "href": "https://api.spotify.com/v1/artists/0xfzJF8IkpAmNrGRMJSlPc",
+        "id": "0xfzJF8IkpAmNrGRMJSlPc",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/94bfd02b4690d86adf6416d8b33f1594a841fc4c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/304776f6c49dd54376d5795187dbd10670561464",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/1ad582cdb088b0cf7ce05072ec805fec019c1b5b",
+            "width": 64
+          }
+        ],
+        "name": "P-Funk",
+        "popularity": 32,
+        "type": "artist",
+        "uri": "spotify:artist:0xfzJF8IkpAmNrGRMJSlPc"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2vxhgszTmEHgbNJM7Xd3aW"
+        },
+        "followers": {
+          "href": null,
+          "total": 6775
+        },
+        "genres": ["classic funk rock", "disco", "funk", "post-disco", "quiet storm"],
+        "href": "https://api.spotify.com/v1/artists/2vxhgszTmEHgbNJM7Xd3aW",
+        "id": "2vxhgszTmEHgbNJM7Xd3aW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/78cbd3c6708f4795f03d1bf96167a94201f052cf",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/0744ace6605fa4e13d709065aa8c39fb2c31ed46",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/9c8ec550be6d34f0a4edb3066f49337a9b390ac9",
+            "width": 64
+          }
+        ],
+        "name": "Instant Funk",
+        "popularity": 33,
+        "type": "artist",
+        "uri": "spotify:artist:2vxhgszTmEHgbNJM7Xd3aW"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0"
+        },
+        "followers": {
+          "href": null,
+          "total": 4094
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3btloSh9XNNgniuk85Z6x0",
+        "id": "3btloSh9XNNgniuk85Z6x0",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/bdd4dda91f95994c2524e26fbe41fb2b7812d926",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/5530e66093b3dd8b623df51d7ebb6dfd58b09ef8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/6f1ac0a04f5427318012c97d3041d868970f4fe0",
+            "width": 64
+          }
+        ],
+        "name": "Jurassik Funk",
+        "popularity": 39,
+        "type": "artist",
+        "uri": "spotify:artist:3btloSh9XNNgniuk85Z6x0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1D9f1goUlrbnQnQaRt6yIP"
+        },
+        "followers": {
+          "href": null,
+          "total": 2318
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1D9f1goUlrbnQnQaRt6yIP",
+        "id": "1D9f1goUlrbnQnQaRt6yIP",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/e0acc33e57a5e53a974f4b0607da05cfeabb5373",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/3a2fdf6cf8579e7b6f4102d3cedc727ad2c1ec35",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/26ba11a4caa72ad24d7b01b024a99a487309b9fa",
+            "width": 64
+          }
+        ],
+        "name": "Sons Of Funk",
+        "popularity": 27,
+        "type": "artist",
+        "uri": "spotify:artist:1D9f1goUlrbnQnQaRt6yIP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm"
+        },
+        "followers": {
+          "href": null,
+          "total": 4478
+        },
+        "genres": ["classic funk rock", "electro", "funk", "go-go"],
+        "href": "https://api.spotify.com/v1/artists/1EGr1AnjVRXYz8j9CTYDlm",
+        "id": "1EGr1AnjVRXYz8j9CTYDlm",
+        "images": [
+          {
+            "height": 1025,
+            "url": "https://i.scdn.co/image/66d432517453b5c55341e972a0354cd78658b662",
+            "width": 1000
+          },
+          {
+            "height": 656,
+            "url": "https://i.scdn.co/image/91e3df9f7e602d25657341657c035ab7431c0ee6",
+            "width": 640
+          },
+          {
+            "height": 205,
+            "url": "https://i.scdn.co/image/5b000dc303454997117eac488c03f329dd6f3676",
+            "width": 200
+          },
+          {
+            "height": 66,
+            "url": "https://i.scdn.co/image/8836048b4fc7df95505dddd234f0684788cdcb84",
+            "width": 64
+          }
+        ],
+        "name": "Trouble Funk",
+        "popularity": 27,
+        "type": "artist",
+        "uri": "spotify:artist:1EGr1AnjVRXYz8j9CTYDlm"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4"
+        },
+        "followers": {
+          "href": null,
+          "total": 23396
+        },
+        "genres": ["big beat", "electronic"],
+        "href": "https://api.spotify.com/v1/artists/4c4Ce4N4vJOs3Tzee020S4",
+        "id": "4c4Ce4N4vJOs3Tzee020S4",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/0010e6570d8d89673f155404138ce85d07ac698f",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/a7594ca9f54b398e9a521ab139bc460aa2c77ed0",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/c5cbd3f59609a5c025e1a3d7f7d4ec06613d924d",
+            "width": 160
+          }
+        ],
+        "name": "Planet Funk",
+        "popularity": 46,
+        "type": "artist",
+        "uri": "spotify:artist:4c4Ce4N4vJOs3Tzee020S4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3OnxG1XyJUpZOh8JujGZJs"
+        },
+        "followers": {
+          "href": null,
+          "total": 3714
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3OnxG1XyJUpZOh8JujGZJs",
+        "id": "3OnxG1XyJUpZOh8JujGZJs",
+        "images": [
+          {
+            "height": 855,
+            "url": "https://i.scdn.co/image/7ca43f22d34ed033b1a6fbe8ef0a80b9d8be8644",
+            "width": 570
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ecdc1076e2352248a92ce69456cb354624374a58",
+            "width": 200
+          },
+          {
+            "height": 96,
+            "url": "https://i.scdn.co/image/2cccee03103fe142c818425e166eb0cf83544452",
+            "width": 64
+          }
+        ],
+        "name": "7 Days Of Funk",
+        "popularity": 30,
+        "type": "artist",
+        "uri": "spotify:artist:3OnxG1XyJUpZOh8JujGZJs"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2qpbJXtYrpwyNwgXM3MRsn"
+        },
+        "followers": {
+          "href": null,
+          "total": 2022
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2qpbJXtYrpwyNwgXM3MRsn",
+        "id": "2qpbJXtYrpwyNwgXM3MRsn",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/3f9a38f6c07a320b363e1726ee18658ba2162e63",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/1ee0b82e1dc932d6e6a3096a6e3f706b1fd9f2fe",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ff0f0cac244580707d62a60a351f3e45f47639a9",
+            "width": 64
+          }
+        ],
+        "name": "Nite-Funk",
+        "popularity": 29,
+        "type": "artist",
+        "uri": "spotify:artist:2qpbJXtYrpwyNwgXM3MRsn"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4aeeLWgLNwNVFzWoXg1u4y"
+        },
+        "followers": {
+          "href": null,
+          "total": 8283
+        },
+        "genres": ["acid jazz", "deep funk"],
+        "href": "https://api.spotify.com/v1/artists/4aeeLWgLNwNVFzWoXg1u4y",
+        "id": "4aeeLWgLNwNVFzWoXg1u4y",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/21d558a96b4d21c4eda6a4215b6af2c6f3f4640a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/7fb72632c38bb9acf430a39f9c700fcc44b3d41c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/f6c0f1edb654b2cc7b8237d6fbefdf8d964334eb",
+            "width": 64
+          }
+        ],
+        "name": "Uptown Funk Empire",
+        "popularity": 40,
+        "type": "artist",
+        "uri": "spotify:artist:4aeeLWgLNwNVFzWoXg1u4y"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4LpE3CzIUkvVnDeKjK3QgB"
+        },
+        "followers": {
+          "href": null,
+          "total": 2
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/4LpE3CzIUkvVnDeKjK3QgB",
+        "id": "4LpE3CzIUkvVnDeKjK3QgB",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/fb043a86299ee9340755b8ac1d8540603a22b14a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/e574d5d716bf3c30dec6dc530549b97e82de1ceb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/5a4442dab7df5d7f9d740d57e9f118e59df23a9d",
+            "width": 64
+          }
+        ],
+        "name": "Broke Funk",
+        "popularity": 23,
+        "type": "artist",
+        "uri": "spotify:artist:4LpE3CzIUkvVnDeKjK3QgB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/18CPbmxYOdkMCEkq3j9CBd"
+        },
+        "followers": {
+          "href": null,
+          "total": 1545
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/18CPbmxYOdkMCEkq3j9CBd",
+        "id": "18CPbmxYOdkMCEkq3j9CBd",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/76147f7d246a77d3891b65a2d98363dd7c011e51",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/01051b9ef236f1e6fd11dd332dcd1123a19c9bdb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/d59e238dd979ba229d9fc605a8f4b98bed6eb7ad",
+            "width": 64
+          }
+        ],
+        "name": "Zackey Force Funk",
+        "popularity": 28,
+        "type": "artist",
+        "uri": "spotify:artist:18CPbmxYOdkMCEkq3j9CBd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/34BHw3ZxeQsZ2yYxoummp7"
+        },
+        "followers": {
+          "href": null,
+          "total": 2536
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/34BHw3ZxeQsZ2yYxoummp7",
+        "id": "34BHw3ZxeQsZ2yYxoummp7",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/aedc2ce06af02123d99abb05868c4bca75bc47f4",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/13d286f0461c46db9c08fc631e6049d2ab275e6c",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/fcc29be072cb3c54773db9b0a99becff676a7382",
+            "width": 160
+          }
+        ],
+        "name": "Five Alarm Funk",
+        "popularity": 32,
+        "type": "artist",
+        "uri": "spotify:artist:34BHw3ZxeQsZ2yYxoummp7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3zU9fuxpRmXdJk7nyTe8u9"
+        },
+        "followers": {
+          "href": null,
+          "total": 2795
+        },
+        "genres": ["big beat", "breakbeat", "nu skool breaks"],
+        "href": "https://api.spotify.com/v1/artists/3zU9fuxpRmXdJk7nyTe8u9",
+        "id": "3zU9fuxpRmXdJk7nyTe8u9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/4613a982b0347633a51fc149511c2ca1ec47da3f",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/280819e1a3c9b007983a4f5da120480e1c279c40",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/a7897612915900548eabc52366e1f039c2cf8727",
+            "width": 160
+          }
+        ],
+        "name": "Future Funk Squad",
+        "popularity": 30,
+        "type": "artist",
+        "uri": "spotify:artist:3zU9fuxpRmXdJk7nyTe8u9"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6O0u8TtmgHUqi7J1DKcBh6"
+        },
+        "followers": {
+          "href": null,
+          "total": 2272
+        },
+        "genres": ["big beat", "electronic"],
+        "href": "https://api.spotify.com/v1/artists/6O0u8TtmgHUqi7J1DKcBh6",
+        "id": "6O0u8TtmgHUqi7J1DKcBh6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/03b56b600d4bac0bbf9aa3c60c81cc943a7179b7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/074ae321fbae7dea4e4189aafc5fa689e8930bde",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/b90a3cce7accdb72a07994d0114867ab5d466ad1",
+            "width": 64
+          }
+        ],
+        "name": "Daft Funk",
+        "popularity": 38,
+        "type": "artist",
+        "uri": "spotify:artist:6O0u8TtmgHUqi7J1DKcBh6"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/73Qym52gV9q9oJuZMZZv0s"
+        },
+        "followers": {
+          "href": null,
+          "total": 4884
+        },
+        "genres": ["acid jazz", "deep funk", "funky breaks"],
+        "href": "https://api.spotify.com/v1/artists/73Qym52gV9q9oJuZMZZv0s",
+        "id": "73Qym52gV9q9oJuZMZZv0s",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/46b3051d5140a824ad00327a5bee7c03d408dee2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/d23be95af3a7390fd505dc9bcb27264279714af9",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/deee9fd13deb6ba0d9e64529bd572a77d8d0381c",
+            "width": 64
+          }
+        ],
+        "name": "All Good Funk Alliance",
+        "popularity": 35,
+        "type": "artist",
+        "uri": "spotify:artist:73Qym52gV9q9oJuZMZZv0s"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/13v5GiWP2zleQKuKRGDM5F"
+        },
+        "followers": {
+          "href": null,
+          "total": 927
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/13v5GiWP2zleQKuKRGDM5F",
+        "id": "13v5GiWP2zleQKuKRGDM5F",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/e79d38a92d255270c803cd760361e87804b7eb53",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/5be0e71b8809c335b004f054a9468c90ac0e5c4b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/abfdd65e98f6df79b3d3d9cf92e2b3afd87f201b",
+            "width": 64
+          }
+        ],
+        "name": "Le Funk",
+        "popularity": 29,
+        "type": "artist",
+        "uri": "spotify:artist:13v5GiWP2zleQKuKRGDM5F"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1XLTL8pahCcqs9EDL3JhUQ"
+        },
+        "followers": {
+          "href": null,
+          "total": 38
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1XLTL8pahCcqs9EDL3JhUQ",
+        "id": "1XLTL8pahCcqs9EDL3JhUQ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/937985a989a3da40d93f85906ba766bbfcc37f3d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/846a637cb2b79be8d7e30633474aaf0acf12e099",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/491fac525eb8551705e2412ebba35c8e48835b1a",
+            "width": 64
+          }
+        ],
+        "name": "Deliver The Funk",
+        "popularity": 25,
+        "type": "artist",
+        "uri": "spotify:artist:1XLTL8pahCcqs9EDL3JhUQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Pev5OreOMyqbNsZTTdU1S"
+        },
+        "followers": {
+          "href": null,
+          "total": 699
+        },
+        "genres": ["deep german pop rock"],
+        "href": "https://api.spotify.com/v1/artists/1Pev5OreOMyqbNsZTTdU1S",
+        "id": "1Pev5OreOMyqbNsZTTdU1S",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/813509e450850e0534316e9df5f8e4cd89d590b4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/a56c84050ee76c6227c49565edb662231f7d5d5f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/9c4e00fed9805f249eaa0c5a039ac3a08297667f",
+            "width": 64
+          }
+        ],
+        "name": "Koby Funk",
+        "popularity": 53,
+        "type": "artist",
+        "uri": "spotify:artist:1Pev5OreOMyqbNsZTTdU1S"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
+        },
+        "followers": {
+          "href": null,
+          "total": 3709
+        },
+        "genres": ["smooth jazz"],
+        "href": "https://api.spotify.com/v1/artists/3avdUekEuUcWJDjYZimuED",
+        "id": "3avdUekEuUcWJDjYZimuED",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/81db19c85849413c5594111ae0c3414292233d80",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/820c4d437b17b7e77782e14b20328b9e4a762273",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/08a79e67fffd085a039c8c290cda26ea5a3e6fe3",
+            "width": 64
+          }
+        ],
+        "name": "Jazz Funk Soul",
+        "popularity": 34,
+        "type": "artist",
+        "uri": "spotify:artist:3avdUekEuUcWJDjYZimuED"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4jbdFVscwgzbzxNFmCHjGY"
+        },
+        "followers": {
+          "href": null,
+          "total": 13503
+        },
+        "genres": ["classic funk rock", "funk", "funk rock", "p funk", "quiet storm"],
+        "href": "https://api.spotify.com/v1/artists/4jbdFVscwgzbzxNFmCHjGY",
+        "id": "4jbdFVscwgzbzxNFmCHjGY",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/e1e8a777d75fdf32e799b48fd3b6584cea4006bb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/cba2e5042429f9194ea5bb6e9eb318324f1ebc6e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/b85a5aba5229080cc9e80835a6a53e034360f4de",
+            "width": 64
+          }
+        ],
+        "name": "P-Funk All Stars",
+        "popularity": 26,
+        "type": "artist",
+        "uri": "spotify:artist:4jbdFVscwgzbzxNFmCHjGY"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/05q3mV2fe0ZmFcFk3Ez8JQ"
+        },
+        "followers": {
+          "href": null,
+          "total": 1473
+        },
+        "genres": ["catstep"],
+        "href": "https://api.spotify.com/v1/artists/05q3mV2fe0ZmFcFk3Ez8JQ",
+        "id": "05q3mV2fe0ZmFcFk3Ez8JQ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ad8be787f94023d51477b4f7e21119b9175a4bce",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/8c6ce4e5af9439f1dc1dfbfd470e5245e6f67c17",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/0d5aa45b153f245ea91253d2a3e4caf329255d9b",
+            "width": 64
+          }
+        ],
+        "name": "Falcon Funk",
+        "popularity": 25,
+        "type": "artist",
+        "uri": "spotify:artist:05q3mV2fe0ZmFcFk3Ez8JQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HRRQ8QMdzMuV0Mkz0cvCV"
+        },
+        "followers": {
+          "href": null,
+          "total": 347
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1HRRQ8QMdzMuV0Mkz0cvCV",
+        "id": "1HRRQ8QMdzMuV0Mkz0cvCV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/64a421a1252a987a7bebcd6c0366d57b1f1f0f1e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/3184e82a39a8afeda96b7c73b3fea962007b2e1b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/9ccca7632bac2eb0c1ce51725e06e2c979ea5f19",
+            "width": 64
+          }
+        ],
+        "name": "Too Funk Project",
+        "popularity": 27,
+        "type": "artist",
+        "uri": "spotify:artist:1HRRQ8QMdzMuV0Mkz0cvCV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5xu4wJecMCJeBiougOv1NK"
+        },
+        "followers": {
+          "href": null,
+          "total": 36
+        },
+        "genres": ["tropical house"],
+        "href": "https://api.spotify.com/v1/artists/5xu4wJecMCJeBiougOv1NK",
+        "id": "5xu4wJecMCJeBiougOv1NK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/3d62e30b963e558985f9133c1dc315d3cf946ee9",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/29e17e3e158795f8d584c6693a8cc050a24f4713",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/7e3c5512ba6c5534a12637cc756ec167063a02dc",
+            "width": 64
+          }
+        ],
+        "name": "The Funk Factory",
+        "popularity": 37,
+        "type": "artist",
+        "uri": "spotify:artist:5xu4wJecMCJeBiougOv1NK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4E2WMVMkVEyXugsOdfLyAV"
+        },
+        "followers": {
+          "href": null,
+          "total": 916
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/4E2WMVMkVEyXugsOdfLyAV",
+        "id": "4E2WMVMkVEyXugsOdfLyAV",
+        "images": [
+          {
+            "height": 677,
+            "url": "https://i.scdn.co/image/2dbd39d8786f9224dd11bcb32879822d69a403cb",
+            "width": 1000
+          },
+          {
+            "height": 433,
+            "url": "https://i.scdn.co/image/923633634469f627f4f89974d7bdbd6cef2fac23",
+            "width": 640
+          },
+          {
+            "height": 135,
+            "url": "https://i.scdn.co/image/8c6c5f91eb5836e3676a26cbd9dc8c4522cf7d4f",
+            "width": 199
+          },
+          {
+            "height": 43,
+            "url": "https://i.scdn.co/image/22afe972998017399086d872c77d2f3b7b92cd2e",
+            "width": 64
+          }
+        ],
+        "name": "Funk Inc.",
+        "popularity": 26,
+        "type": "artist",
+        "uri": "spotify:artist:4E2WMVMkVEyXugsOdfLyAV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5iP2kP5dup1crWP2BfRBvZ"
+        },
+        "followers": {
+          "href": null,
+          "total": 87
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5iP2kP5dup1crWP2BfRBvZ",
+        "id": "5iP2kP5dup1crWP2BfRBvZ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/c13decbfbe3cd4d9f75143feaf76248a39e566fc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/b7436480617aacbbc08ee5b86318be7a047aa8af",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/e616b9bbb9080ded4d5e13efc8209019f4ca532d",
+            "width": 64
+          }
+        ],
+        "name": "Michael Funk",
+        "popularity": 26,
+        "type": "artist",
+        "uri": "spotify:artist:5iP2kP5dup1crWP2BfRBvZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
+        },
+        "followers": {
+          "href": null,
+          "total": 2026
+        },
+        "genres": ["deep funk"],
+        "href": "https://api.spotify.com/v1/artists/7lis4nJqfPm4jTXZdfAJDy",
+        "id": "7lis4nJqfPm4jTXZdfAJDy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/3b50c12dbff38ecb2144592fc52308640a9b6939",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/f9a5b61dffdb813fd89fb7ef9eb2c805680e4b43",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/355db934004f4e462eb833d71a01f51288b4134d",
+            "width": 64
+          }
+        ],
+        "name": "Funk Off",
+        "popularity": 27,
+        "type": "artist",
+        "uri": "spotify:artist:7lis4nJqfPm4jTXZdfAJDy"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3iEbz4zyLq1ac5GQKLR8jx"
+        },
+        "followers": {
+          "href": null,
+          "total": 551
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3iEbz4zyLq1ac5GQKLR8jx",
+        "id": "3iEbz4zyLq1ac5GQKLR8jx",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/584fbfcc0992837a40e205d15c40656de471c5e2",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/84660279ec610ac5c6fd35fb65ee43b2f5157c6d",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ca99f7641d3530f896e925cd2c271de58f06bdae",
+            "width": 160
+          }
+        ],
+        "name": "Funk Leblanc",
+        "popularity": 26,
+        "type": "artist",
+        "uri": "spotify:artist:3iEbz4zyLq1ac5GQKLR8jx"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/19Xtz31LtgKmfyYw4qAGZh"
+        },
+        "followers": {
+          "href": null,
+          "total": 2327
+        },
+        "genres": ["afrobeat", "deep funk"],
+        "href": "https://api.spotify.com/v1/artists/19Xtz31LtgKmfyYw4qAGZh",
+        "id": "19Xtz31LtgKmfyYw4qAGZh",
+        "images": [
+          {
+            "height": 667,
+            "url": "https://i.scdn.co/image/f3342c2b728f7ada8f68673e3161fb48d774f4ae",
+            "width": 1000
+          },
+          {
+            "height": 427,
+            "url": "https://i.scdn.co/image/e4e5efde2da892f24bb047d9baf765e31ff84be7",
+            "width": 640
+          },
+          {
+            "height": 133,
+            "url": "https://i.scdn.co/image/afffd2aa04f5e8c7ff568519bc79ced82d185603",
+            "width": 200
+          },
+          {
+            "height": 43,
+            "url": "https://i.scdn.co/image/e5544b302192939200eec6c9a7533e4ee206597e",
+            "width": 64
+          }
+        ],
+        "name": "The Funk Ark",
+        "popularity": 24,
+        "type": "artist",
+        "uri": "spotify:artist:19Xtz31LtgKmfyYw4qAGZh"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0B9P7RXrukgIdmutz9XMVN"
+        },
+        "followers": {
+          "href": null,
+          "total": 3317
+        },
+        "genres": ["acid house", "chicago house", "hip house"],
+        "href": "https://api.spotify.com/v1/artists/0B9P7RXrukgIdmutz9XMVN",
+        "id": "0B9P7RXrukgIdmutz9XMVN",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/c8b55afcbfbe87b4e6a178c5bbe8c220c07336c3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/8e2409cca5dd6641e8d623b4e118b18cbd24d766",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/df3ddd2349d0d6cf1172df6b392449ddb58eaaf0",
+            "width": 64
+          }
+        ],
+        "name": "Farley \"Jackmaster\" Funk",
+        "popularity": 29,
+        "type": "artist",
+        "uri": "spotify:artist:0B9P7RXrukgIdmutz9XMVN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7BYwUnte3O4LpmkKTjOUF0"
+        },
+        "followers": {
+          "href": null,
+          "total": 959
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/7BYwUnte3O4LpmkKTjOUF0",
+        "id": "7BYwUnte3O4LpmkKTjOUF0",
+        "images": [
+          {
+            "height": 1000,
+            "url": "https://i.scdn.co/image/d653e0422e915b68bb00d64c6116c809ccc43288",
+            "width": 1000
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/78c29a6031fc56bb14a6fbcd652593dcfe2aeb7c",
+            "width": 640
+          },
+          {
+            "height": 200,
+            "url": "https://i.scdn.co/image/d46f81f3154adfe7d9aea8deb37e4e94775bad58",
+            "width": 200
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/f0fc12209d6f8fd66f96104121d33119b2073a29",
+            "width": 64
+          }
+        ],
+        "name": "Patric La Funk",
+        "popularity": 29,
+        "type": "artist",
+        "uri": "spotify:artist:7BYwUnte3O4LpmkKTjOUF0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
+        },
+        "followers": {
+          "href": null,
+          "total": 3827
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0n6R1WkjWzYq9NblwRLaBQ",
+        "id": "0n6R1WkjWzYq9NblwRLaBQ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/541b31d84f5f5f9836e5de92e0e765f0a3a08181",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/5f0ca0ed1dbd548e8a47706c3fb1bcee2bfe86a8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/a59176c4b7da4f5e408008678385e21cd30b83c0",
+            "width": 64
+          }
+        ],
+        "name": "Rock Candy Funk Party",
+        "popularity": 26,
+        "type": "artist",
+        "uri": "spotify:artist:0n6R1WkjWzYq9NblwRLaBQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2FghEpEqZ2V1Jw56aJEcgN"
+        },
+        "followers": {
+          "href": null,
+          "total": 7532
+        },
+        "genres": ["classic funk rock", "p funk"],
+        "href": "https://api.spotify.com/v1/artists/2FghEpEqZ2V1Jw56aJEcgN",
+        "id": "2FghEpEqZ2V1Jw56aJEcgN",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/9e00955885b7f4da601efd5ae829dc683539d6e0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/d26aa960769c1c25fb703defcc7a1349f21a9ab0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/9e3f3b248253d0dffb57090760723f5af57892bb",
+            "width": 64
+          }
+        ],
+        "name": "George Clinton & The P-Funk All Stars",
+        "popularity": 25,
+        "type": "artist",
+        "uri": "spotify:artist:2FghEpEqZ2V1Jw56aJEcgN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1ydMwlr8PsTcShNu8uqDvz"
+        },
+        "followers": {
+          "href": null,
+          "total": 479
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1ydMwlr8PsTcShNu8uqDvz",
+        "id": "1ydMwlr8PsTcShNu8uqDvz",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/4a496c4657e5d8783a36e04adde74831a8214da2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/88ce73669c67b463c65d728c2593ced7d66675d1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/f4074fb52aaf972e428705c484cdaf862fd5ecd5",
+            "width": 64
+          }
+        ],
+        "name": "Funk You",
+        "popularity": 14,
+        "type": "artist",
+        "uri": "spotify:artist:1ydMwlr8PsTcShNu8uqDvz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Ccm7dJB1oYNnVB02k1vSE"
+        },
+        "followers": {
+          "href": null,
+          "total": 35
+        },
+        "genres": ["go-go"],
+        "href": "https://api.spotify.com/v1/artists/7Ccm7dJB1oYNnVB02k1vSE",
+        "id": "7Ccm7dJB1oYNnVB02k1vSE",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/07d3612a72b7eec8ca9551e839687b7e9f79a42d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/a064c5e3c55c39d601347d14f0d7957a7f507020",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/8403cdb722da6815fb96a0e4b88079c1f3f369da",
+            "width": 64
+          }
+        ],
+        "name": "Jas Funk",
+        "popularity": 15,
+        "type": "artist",
+        "uri": "spotify:artist:7Ccm7dJB1oYNnVB02k1vSE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1gLZHIYx6shqo9yDfF2D10"
+        },
+        "followers": {
+          "href": null,
+          "total": 79
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1gLZHIYx6shqo9yDfF2D10",
+        "id": "1gLZHIYx6shqo9yDfF2D10",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/2052bc6e6f2588bd2ce6ed1e4e6a0466f2dee3ff",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/66d163462bec27f465f44eac06d43fcbd94d8cff",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/681a77f8807eba1621622570912d01c3aa8144e6",
+            "width": 160
+          }
+        ],
+        "name": "Pop Funk",
+        "popularity": 15,
+        "type": "artist",
+        "uri": "spotify:artist:1gLZHIYx6shqo9yDfF2D10"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/74hujKWCBxdGivVXznTBis"
+        },
+        "followers": {
+          "href": null,
+          "total": 119
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/74hujKWCBxdGivVXznTBis",
+        "id": "74hujKWCBxdGivVXznTBis",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/56921272255be576247c973a26600179b65023d5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/67224aaf6bea90e50e73dbfc27cbbd6e03eca60b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/7ff41afda7c19f4a96226178a7e19ca4f135c7e1",
+            "width": 64
+          }
+        ],
+        "name": "Artificial Funk",
+        "popularity": 20,
+        "type": "artist",
+        "uri": "spotify:artist:74hujKWCBxdGivVXznTBis"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0UxVmzj48CkaBKISsYF9Ia"
+        },
+        "followers": {
+          "href": null,
+          "total": 206
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0UxVmzj48CkaBKISsYF9Ia",
+        "id": "0UxVmzj48CkaBKISsYF9Ia",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/cac1c95f187caa6c4101cb680908e5a6ac57df7d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ba8b16278fc1c74f6050428e61b015662c3954c1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/d692bac6fb3f3ef9cad62f125a921af59ec63b0d",
+            "width": 64
+          }
+        ],
+        "name": "Ziggy Funk",
+        "popularity": 24,
+        "type": "artist",
+        "uri": "spotify:artist:0UxVmzj48CkaBKISsYF9Ia"
+      }
+    ],
+    "limit": 50,
+    "next": "https://api.spotify.com/v1/search?query=funk&type=artist&market=US&offset=50&limit=50",
+    "offset": 0,
+    "previous": null,
+    "total": 1649
+  }
+}

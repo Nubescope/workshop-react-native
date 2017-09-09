@@ -1,21 +1,26 @@
 import React from 'react'
-import { Image, Platform, ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native'
+import { Image, Platform, FlatList, StyleSheet, Text, TouchableOpacity, View } from 'react-native'
 import Artista from '../components/Artista'
-
-const artista = {
-  name: 'Luis Alberto Spinneta',
-  image: 'https://lh6.googleusercontent.com/eOcwBtI4_kBP2prhL0A5puNNUCNAlawW6guVHltl6L4=s865-no',
-}
-
-const artistas = new Array(500).fill(artista)
+import { obtenerArtistas } from '../api/artistas'
 
 export default class HomeScreen extends React.Component {
   static navigationOptions = {
     header: null,
   }
 
+  state = {
+    artistas: [],
+  }
+
+  componentDidMount() {
+    obtenerArtistas().then(artistas => this.setState({ artistas }))
+  }
+
+  renderItem = ({ item }) => <Artista datos={item} />
+
   render() {
-    return <ScrollView style={styles.container}>{artistas.map(artista => <Artista datos={artista} />)}</ScrollView>
+    const { artistas } = this.state
+    return <FlatList data={artistas} renderItem={this.renderItem} />
   }
 }
 
