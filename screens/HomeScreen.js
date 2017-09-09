@@ -16,7 +16,22 @@ export default class HomeScreen extends React.Component {
     obtenerArtistas().then(artistas => this.setState({ artistas }))
   }
 
-  renderItem = ({ item }) => <Artista datos={item} />
+  handleLikeArtista = artista => {
+    this.setState({
+      artistas: this.state.artistas.map(a => {
+        if (a.key === artista.key) {
+          return {
+            ...artista,
+            favorite: !artista.favorite,
+          }
+        }
+
+        return a
+      }),
+    })
+  }
+
+  renderItem = ({ item }) => <Artista datos={item} onLike={() => this.handleLikeArtista(item)} />
 
   render() {
     const { artistas } = this.state
