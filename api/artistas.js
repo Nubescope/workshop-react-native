@@ -1,6 +1,5 @@
 import artistas from './json-artistas'
-const ARTISTS_URL =
-  'https://raw.githubusercontent.com/underscopeio/workshop-react-native/master/api/json-artistas.json?token=ABk15HtAZTqW3x0AjDYQhUe183wkDMWZks5ZvQNkwA%3D%3D'
+const ARTISTS_URL = 'https://raw.githubusercontent.com/underscopeio/workshop-react-native/master/api/json-artistas.json'
 
 export const obtenerArtistas = () => {
   return fetch(ARTISTS_URL)
