@@ -2,20 +2,16 @@ import React, { Component } from 'react'
 import { View, Text, Image, StyleSheet, Platform } from 'react-native'
 import { Ionicons } from '@expo/vector-icons'
 
-const artist = {
-  name: 'Luis Alberto Spinneta',
-  image: 'https://lh6.googleusercontent.com/eOcwBtI4_kBP2prhL0A5puNNUCNAlawW6guVHltl6L4=s865-no',
-}
-
-const nombreIconoCorazon = `${Platform.OS === 'ios' ? 'ios-heart' : 'md-heart'}${artist.esFavorito ? '' : '-outline'}`
-
 export default class Artista extends Component {
   render() {
+    const { datos: { name, image, favorite } } = this.props
+    const nombreIconoCorazon = `${Platform.OS === 'ios' ? 'ios-heart' : 'md-heart'}${favorite ? '' : '-outline'}`
+
     return (
       <View style={styles.container}>
-        <Image source={{ uri: artist.image }} style={styles.image} />
+        <Image source={{ uri: image }} style={styles.image} />
         <View style={styles.info}>
-          <Text style={styles.nombre}>{artist.name}</Text>
+          <Text style={styles.nombre}>{name}</Text>
           <View style={styles.corazon}>
             <Ionicons name={nombreIconoCorazon} size={40} color="#f44336" />
           </View>
