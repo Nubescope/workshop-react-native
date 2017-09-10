@@ -39,7 +39,7 @@ Ahora podemos notar que la vista se _renderiza_ más rápido y si miramos la _ba
 #### Consumiendo una API para traer artistas
 Para terminar esta parte vamos a reemplazar el listado de artistas por uno verdadero, consumiendo un JSON usando `fetch`.
 
-Vamos a aprovechar la carpeta `api` y crear un archivo `artistas.js` en el que exportaremos un método que haga fetch a la url: COMPLETAR_CON_URL. ([ayuda](#fetcheando-artistas))
+Vamos a aprovechar la carpeta `api` y crear un archivo `artistas.js` en el que exportaremos un método que haga fetch a la url: 'https://raw.githubusercontent.com/underscopeio/workshop-react-native/master/api/json-muchos-artistas.json'. ([ayuda](#fetcheando-artistas))
 
 El primer problema que nos vamos a encontrar es que el formato que nos devuelve la API de **Spotify** no es el que nosotros habíamos definido por cada artista. Por eso, además de hacer el fetch, vamos a formatear cada artista como nos conviene. ([ayuda](#formateando-artistas))
 
@@ -48,15 +48,18 @@ Finalmente incluimos `api/artists.js` desde `HomeScreen.js` y lo llamamos en el 
 ### Ayuda
 #### Fetcheando artistas
 ```js
+const URL = 'https://raw.githubusercontent.com/underscopeio/workshop-react-native/master/api/json-muchos-artistas.json'
 export const obtenerArtistas = () => {
-  return fetch(COMPLETAR_URL).then(res => res.json())
+  return fetch(URL).then(res => res.json())
 }
 ```
 
 #### Formateando artistas
 ```js
+const URL = 'https://raw.githubusercontent.com/underscopeio/workshop-react-native/master/api/json-muchos-artistas.json'
+
 export const obtenerArtistas = () => {
-  return fetch(COMPLETAR_URL).then(res => res.json()).then(response =>
+  return fetch(URL).then(res => res.json()).then(response =>
     response.artists.items.map(artist => ({
       name: artist.name,
       key: artist.id,
